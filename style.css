@@ -1,0 +1,8 @@
+:root {
+  --border: 2px solid red;
+  --padding: 25px;
+}
+h1 {
+  border: var(--border);
+  padding: var(--padding);
+}
